@@ -1,0 +1,37 @@
+.GaugeChart {
+  background-color: #141526;
+  width: 100%;
+  height: 100%;
+}
+.GaugeChart svg {
+  width: 100%;
+  height: 100%;
+}
+.svg-gauge-text-percent {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  stroke: white;
+  fill: white;
+  stroke-width: 2;
+  font-size: 60px;
+}
+.svg-gauge-text-value {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  stroke: white;
+  fill: white;
+  stroke-width: 2;
+  font-size: 30px;
+}
+.svg-gauge-text-minmax {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  stroke: white;
+  fill: white;
+  stroke-width: 2;
+  font-size: 20px;
+}
+.btn {
+  background-color: "#2699fb";
+  color: "white";
+}
